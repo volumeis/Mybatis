@@ -16,7 +16,7 @@ public class MyBatisTestApp04 {
 	
 	///main method
 	public static void main(String[] args) throws Exception{
-		
+		//dd
 		//==> 1. xml metadata 읽는 Stream 생성
 		Reader reader = Resources.getResourceAsReader("sql/mybatis-config01.xml");
 		
